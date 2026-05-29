@@ -1,5 +1,5 @@
 ---
-title: "Test kurser"
+title: "Testkurser"
 ---
 
 This is just a collection of test courses.
