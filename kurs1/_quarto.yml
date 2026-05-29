@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: ../docs/kurs1
+
+book:
+  title: "kurs1"
+  author: "Norah Jones"
+  date: "5/29/2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

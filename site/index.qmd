@@ -1,0 +1,10 @@
+---
+title: "Test kurser"
+---
+
+This is just a collection of test courses.
+
+The separate courses are:
+
+- [Kurs 1](kurs1)
+- [Kurs 2](kurs2)
